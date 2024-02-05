@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditsBG.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Wall BG0000" x="0" y="0" width="1316" height="740"/>
+	<SubTexture name="Wall BG0001" x="1316" y="0" width="1316" height="740"/>
+	<SubTexture name="Wall BG0002" x="2632" y="0" width="1316" height="740"/>
+	<SubTexture name="Wall BG0003" x="0" y="740" width="1316" height="740"/>
+</TextureAtlas>

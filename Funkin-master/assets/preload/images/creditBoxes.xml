@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="creditBoxes.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Credit box0000" x="0" y="0" width="344" height="248"/>
+	<SubTexture name="Credit box selected0000" x="344" y="0" width="378" height="271" frameX="0" frameY="-3" frameWidth="379" frameHeight="276"/>
+	<SubTexture name="Credit box selected0001" x="0" y="271" width="376" height="273" frameX="-3" frameY="-2" frameWidth="379" frameHeight="276"/>
+	<SubTexture name="Credit box selected0002" x="376" y="271" width="369" height="276" frameX="-3" frameY="0" frameWidth="379" frameHeight="276"/>
+</TextureAtlas>
